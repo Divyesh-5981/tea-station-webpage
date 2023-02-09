@@ -186,11 +186,11 @@ More Global CSS
 
 .about-title {
   margin-bottom: 2rem;
-  width: 85vw;
+  width: 85%;
 }
 
 .section-center {
-  width: 85vw;
+  width: 85%;
   padding: 4rem 0;
   margin: 0 auto;
   max-width: 1170px;
@@ -252,7 +252,7 @@ Skills Section
 
 @media screen and (min-width: 992px) {
   .section-center {
-    width: 95vw;
+    width: 95%;
     padding: 4rem 1rem;
   }
 }
